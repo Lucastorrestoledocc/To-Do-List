@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702919710 source:c:\users\lucas.toledo\desktop\tdl\todolist\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
